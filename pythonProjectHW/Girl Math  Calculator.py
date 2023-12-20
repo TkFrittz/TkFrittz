@@ -1,5 +1,4 @@
-#goal: create a basic budget calculator that allows you to input how much you want to spend
-#use boolians to determine if dinner is within budget
+#goal: create a basic girl math calculator that allows you to input how much you want to spend and determines if you shhould make the purchase 
 
 Budget = (input("How much would you like to spend?"))
 #set Budget
